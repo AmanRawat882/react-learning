@@ -8,7 +8,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "start": "parcel src/index.html",
     "dev:mock": "cross-env PET_MOCK=mock npm run dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
